@@ -8,7 +8,7 @@ description: > # this just means to ignore newlines until "baseurl:"
   It's easy to use.
   It's a Jekyll theme.
 baseurl: http://eng7006student.github.io # the subpath of your site, e.g. /blog/; if unsure, leave this blank
-url: http://eng7006student.github.io # replace [username] with your github username (no brackets)
+# url: http://eng7006student.github.io # replace [username] with your github username (no brackets)
 github_username: eng7006student # replace with your github username
 
 ########################## DO NOT EDIT BELOW HERE UNLESS YOU'RE STOKED TO HACK
