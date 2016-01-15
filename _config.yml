@@ -7,7 +7,7 @@ description: > # this just means to ignore newlines until "baseurl:"
   Brume is simple.
   It's easy to use.
   It's a Jekyll theme.
-baseurl: / # the subpath of your site, e.g. /blog/; if unsure, leave this blank
+baseurl: http://eng7006student.github.io/ # the subpath of your site, e.g. /blog/; if unsure, leave this blank
 url: http://eng7006student.github.io/ # replace [username] with your github username (no brackets)
 github_username: eng7006student # replace with your github username
 
