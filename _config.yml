@@ -1,9 +1,9 @@
 ########################### EDIT YOUR SETTINGS HERE
 # Site settings
-title: "A Test Student Blog"
+title: "A Changed Title" # put an awesome site title here
 email: "you@example.com" # put your email address in here; optional
 # edit your site description; keep it brief
-description: "Brume is simple. It's easy to use. It's a Jekyll theme."
+description: "This is a different description for Brume."
 url: http://eng7006student.github.io # replace [username] with your github username (no brackets)
 github_username: eng7006student # replace with your github username
 
