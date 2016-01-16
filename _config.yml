@@ -1,6 +1,6 @@
 ########################### EDIT YOUR SETTINGS HERE
 # Site settings
-title: 'A Test Student Blog' # give your site a title
+title: 'A Test Student Blog'
 email: 'you@example.com' # put your email address in here; optional
 # edit your site description; keep it brief
 description: 'Brume is simple. It's easy to use. It's a Jekyll theme.'
